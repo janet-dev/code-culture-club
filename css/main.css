@@ -255,15 +255,16 @@ html {
     align-items: center;
     text-align: center;
     justify-content: space-evenly;
-    
+    width: 100%;
 }
 @media (max-width: 800px) {
     .flex-sitemap {
       flex-direction: column;
+      width: 100%;
     }
 }
 .sitemap {
-    margin-left: -20px;
+    margin-left: 0;
 }
 
 .contactus {
