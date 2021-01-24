@@ -14,9 +14,10 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
   const google = 'https://www.google.com/search?q=site%3A+';
-  const site = 'https://janet-dev.github.io/code-culture-club/';
+  const site = 'janet-dev.github.io/code-culture-club/';
+  //Was originally published at...
   //const site = 'anise-design.github.io'; 
-  //our website which is currently being indexed by Google
+  //where the website is being indexed by Google
 
   function submitted(event) {
     event.preventDefault();
