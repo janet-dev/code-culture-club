@@ -1,6 +1,6 @@
 # code-culture-club
 Code First Girls Project - Digital Culture Magazine
-<br>
+<br><br>
 Ana, Janet, Kemer and Niamh - we are coders on the Code First Girls: Kickstarter Web Development course, 
 who have formed the 'code culture club' for our team project.
 <br><br>
