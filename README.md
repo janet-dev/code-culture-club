@@ -2,7 +2,7 @@
 Digital Culture Magazine
 <br><br>
 Ana, Janet, Kemer and Niamh - we are coders 
-who have formed the 'code culture club' for our team project.
+who have formed the 'code culture club'.
 <br><br>
 'code culture club' is a monthly online publication showcasing lesser known aspects of 
 international culture. We will be writing about local talent, cuisine, travel and life.
